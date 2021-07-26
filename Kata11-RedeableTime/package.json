@@ -1,0 +1,16 @@
+{
+  "name": "Kata11-RedeableTime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "humaRedeable.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch":"jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Kata8-DigPow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "digPow.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
